@@ -2,8 +2,8 @@
 
 Praktikum klasifikasi tumor payudara (ganas/jinak) menggunakan **Logistic Regression** dan **Random Forest**, lalu membandingkan performa keduanya.
 
-**Nama:** [isi nama]
-**NIM:** [isi NIM]
+**Nama:** Laksita Widia Pratiwi
+**NIM:** B1C024004
 **Program Studi:** Biologi Terapan, Universitas Jenderal Soedirman
 
 ## Deskripsi
